@@ -2,9 +2,9 @@
 <h1 align="center">Back-end project developed in Adonis</h1>
 
 <!--ts-->
-   * [Sobre](#Sobre)
+   * [About](#about)
    * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Instalação](#instalacao)
+   * [Installation](#Installation)
    * [Como usar](#como-usar)
       * [Pre Requisitos](#pre-requisitos)
       * [Local files](#local-files)
@@ -17,7 +17,7 @@
 
 
 <!--ts-->
-installation
+Installation
 
 * npm i -g @adonisjs/cli
 * adonis new ecommerce
