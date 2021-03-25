@@ -11,7 +11,7 @@
        * [Remote files](#remote-files)
        * [Multiple files](#multiple-files)
    * [Tests](#tests)
-   * [Technologies](#technologies)
+   * [Technologies](#Technologies)
 <!--te-->
 
 ### About
@@ -38,9 +38,9 @@
 <!--te-->
 
 
-### 🛠 technologies
+### 🛠 Technologies
 
-As seguintes ferramentas foram usadas na construção do projeto:
+The following tools were used in the construction of the project:
 
 - [Node.js](https://nodejs.org/en/)
 - [Adonis](https://adonisjs.com/)
