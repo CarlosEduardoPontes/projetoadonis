@@ -17,10 +17,19 @@
 
 
 <!--ts-->
-Installation
+### Installation
 
 * npm i -g @adonisjs/cli
 * adonis new ecommerce
 * cd ecommerce
 * adonis serve --dev
 <!--te-->
+
+
+### 🛠 technologies
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Node.js](https://nodejs.org/en/)
+- [Adonis](https://adonisjs.com/)
+- [TypeScript](https://www.typescriptlang.org/)
