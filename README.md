@@ -6,13 +6,13 @@
    * [Table of Contents](#table-of-contents)
    * [Installation](#Installation)
    * [How to use](#how-to)
-       * [Pre-requisites] (#pre-requisites)
-       * [Local files] (#local-files)
-       * [Remote files] (#remote-files)
-       * [Multiple files] (#multiple-files)
-       * [Combo] (#combo)
-   * [Tests] (#tests)
-   * [Technologies] (#technologies)
+       * [Pre-requisites](#pre-requisites)
+       * [Local files](#local-files)
+       * [Remote files](#remote-files)
+       * [Multiple files](#multiple-files)
+       * [Combo](#combo)
+   * [Tests](#tests)
+   * [Technologies](#technologies)
 <!--te-->
 
 
