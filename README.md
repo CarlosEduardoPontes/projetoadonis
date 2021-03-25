@@ -2,7 +2,7 @@
 <h1 align="center">Back-end project developed in Adonis</h1>
 
 <!--ts-->
-   * [About](#about)
+   * [About](#About)
    * [Table of Contents](#table-of-contents)
    * [Installation](#Installation)
    * [How to use](#how-to)
@@ -10,11 +10,23 @@
        * [Local files](#local-files)
        * [Remote files](#remote-files)
        * [Multiple files](#multiple-files)
-       * [Combo](#combo)
    * [Tests](#tests)
    * [Technologies](#technologies)
 <!--te-->
 
+### About
+  Em construção
+  
+### table-of-contents
+  Em construção
+
+### how-to
+  Em construção
+  
+   ### pre-requisites
+   ### local-files
+   ### remote-files
+   ### multiple-files
 
 <!--ts-->
 ### Installation
