@@ -3,8 +3,8 @@
 
 
 <!--ts-->
-    * [About] (# About)
-    * [Table of Contents] (# table-of-contents)
+    * [About](#About)
+    * [Table of Contents](#table-of-contents)
     * [Installation] (#installation)
     * [How to use] (# how-to)
        * [Pre-requisites] (# pre-requisites)
