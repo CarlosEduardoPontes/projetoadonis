@@ -3,16 +3,16 @@
 
 <!--ts-->
    * [About](#about)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
+   * [Table of Contents](#table-of-contents)
    * [Installation](#Installation)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
-   * [Tecnologias](#tecnologias)
+   * [How to use](#how-to)
+       * [Pre-requisites] (#pre-requisites)
+       * [Local files] (#local-files)
+       * [Remote files] (#remote-files)
+       * [Multiple files] (#multiple-files)
+       * [Combo] (#combo)
+   * [Tests] (#tests)
+   * [Technologies] (#technologies)
 <!--te-->
 
 
