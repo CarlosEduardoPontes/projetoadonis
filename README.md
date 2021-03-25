@@ -15,18 +15,10 @@
 <!--te-->
 
 ### About
-  Em construção
+  🚧 Em construção
   
 ### table-of-contents
-  Em construção
-
-### how-to
-  Em construção
-  
-   ### pre-requisites
-   ### local-files
-   ### remote-files
-   ### multiple-files
+  🚧 Em construção
 
 <!--ts-->
 ### Installation
@@ -37,7 +29,17 @@
 * adonis serve --dev
 <!--te-->
 
+### how-to
+  🚧 Em construção
+  
+   ### pre-requisites
+   ### local-files
+   ### remote-files
+   ### multiple-files
 
+### tests
+  🚧 Em construção
+  
 ### 🛠Technologies
 
 The following tools were used in the construction of the project:
