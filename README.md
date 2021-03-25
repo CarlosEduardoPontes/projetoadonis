@@ -12,6 +12,7 @@
        * [Multiple files](#multiple-files)
    * [Tests](#tests)
    * [Technologies](#Technologies)
+   * [Author](#Author)
 <!--te-->
 
 ### About
@@ -47,3 +48,6 @@ The following tools were used in the construction of the project:
 - [Node.js](https://nodejs.org/en/)
 - [Adonis](https://adonisjs.com/)
 - [TypeScript](https://www.typescriptlang.org/)
+
+### Author
+  🚧 Em construção
