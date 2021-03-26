@@ -33,6 +33,7 @@
 * adonis install @adonisjs/mail
 * adonis install @adonisjs/validator
 * adonis install @adonisjs/websocket
+* adonis install adonis-acl
 <!--te-->
 
 ### how-to
