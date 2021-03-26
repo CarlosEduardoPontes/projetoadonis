@@ -31,6 +31,7 @@
 
 * npm i --save mysql
 * adonis install @adonisjs/mail
+* adonis install @adonisjs/validator
 <!--te-->
 
 ### how-to
