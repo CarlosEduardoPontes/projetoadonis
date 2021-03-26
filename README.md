@@ -36,6 +36,7 @@
 * adonis install adonis-acl
 * adonis acl:setup
 * adonis install adonis-bumblebee
+* adonis make:migration Image
 <!--te-->
 
 ### how-to
