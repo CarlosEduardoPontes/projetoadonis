@@ -28,6 +28,9 @@
 * adonis new ecommerce
 * cd ecommerce
 * adonis serve --dev
+
+* npm i --save mysql
+* adonis install @adonisjs/mail
 <!--te-->
 
 ### how-to
