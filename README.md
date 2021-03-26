@@ -34,6 +34,8 @@
 * adonis install @adonisjs/validator
 * adonis install @adonisjs/websocket
 * adonis install adonis-acl
+* adonis acl:setup
+* adonis install adonis-bumblebee
 <!--te-->
 
 ### how-to
